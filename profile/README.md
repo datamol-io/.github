@@ -9,3 +9,4 @@ Learn more at <https://datamol.io/>.
 - [Datamol](https://github.com/datamol-io/datamol) - Molecular Processing Made Easy.
 - [Molfeat](https://github.com/datamol-io/molfeat) - The hub for all your molecular featurizers.
 - [Graphium](https://github.com/datamol-io/graphium) - Scaling molecular GNNs to infinity.
+- [Medchem](https://github.com/datamol-io/medchem) - Molecular filtering for drug discovery.
