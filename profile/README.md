@@ -10,4 +10,4 @@ Learn more at <https://datamol.io/>.
 - [Molfeat](https://github.com/datamol-io/molfeat) - The hub for all your molecular featurizers.
 - [Graphium](https://github.com/datamol-io/graphium) - Scaling molecular GNNs to infinity.
 - [Medchem](https://github.com/datamol-io/medchem) - Molecular filtering for drug discovery.
-- [SAFE](https://github.com/datamol-io/safe) - A new framework for molecular design.
+- [SAFE](https://github.com/datamol-io/safe) - A single model for all your molecular design tasks.
