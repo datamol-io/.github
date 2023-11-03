@@ -12,4 +12,3 @@ Learn more at <https://datamol.io/>.
 - [Medchem](https://github.com/datamol-io/medchem) - Molecular filtering for drug discovery.
 - [SAFE](https://github.com/datamol-io/safe) - A single model for all your molecular design tasks.
 - [Splito](https://github.com/datamol-io/splito) - Machine Learning dataset splitting for life sciences.
-- 
