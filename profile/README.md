@@ -11,3 +11,5 @@ Learn more at <https://datamol.io/>.
 - [Graphium](https://github.com/datamol-io/graphium) - Scaling molecular GNNs to infinity.
 - [Medchem](https://github.com/datamol-io/medchem) - Molecular filtering for drug discovery.
 - [SAFE](https://github.com/datamol-io/safe) - A single model for all your molecular design tasks.
+- [Splito](https://github.com/datamol-io/splito) - Machine Learning dataset splitting for life sciences.
+- 
